@@ -7,8 +7,10 @@ Welcome to my Python analytics workspace! As an MSc IT graduate, this repository
 - **Core Engine:** Python 3
 - **Data Manipulation:** **Pandas** (DataFrames, Series, File Ingestion)
 - **Numerical Operations:** **NumPy** (Vectorized math, Handling missing arrays)
+- **Visualization: Used different charts with different theme using matplotlib and seaborn
+- **EDA: Done EDA and found outliers trimmed it using different outlier methods
 
-## 📂 Featured Project: Enterprise Customer & Company Data Cleansing Pipeline
+## 📂 Featured Project: World Population Data Cleansing Pipeline
 - **Objective:** Engineered an automated Python script to ingest, clean, and standardize an unformatted corporate dataset, preparing it for downstream business intelligence workflows.
 - **Core Operations Coded:**
   - **Duplicate Remediation:** Identified and stripped out redundant entity rows dynamically.
